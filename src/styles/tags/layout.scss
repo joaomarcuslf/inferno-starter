@@ -1,0 +1,11 @@
+/**
+ * App Layout
+ */
+
+#app {
+  @extend %fullscreen;
+}
+
+#content {
+  padding-top: $header-height;
+}

@@ -4,11 +4,15 @@
   "version": "0.3.0",
   "license": "MIT",
   "repository": "lukeed/inferno-starter",
-  "author": {
+  "author": [{
+    "name": "João Marcus Fernandes",
+    "email": "jmarcusfernandes@gmail.com",
+    "url": "http://joaomarcuslf.github.io/"
+  }, {
     "name": "Luke Edwards",
     "email": "luke.edwards05@gmail.com",
     "url": "https://lukeed.com"
-  },
+  }],
   "scripts": {
     "build": "webpack --env.production --config config/webpack",
     "start": "serve dist -s",

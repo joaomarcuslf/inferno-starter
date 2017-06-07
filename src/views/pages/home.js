@@ -20,7 +20,7 @@ export default function (props) {
 				<h2>Features:</h2>
 				<ul>
 					<li>Offline Caching (via `serviceWorker`)</li>
-					<li>SASS & Autoprefixer</li>
+					<li>scss & Autoprefixer</li>
 					<li>Asset Versioning (aka "cache-busting")</li>
 					<li>ES2015 (ES6) and ES2016 (ES7) support</li>
 					<li>Webpack Bundle Analysis (via `webpack-dashboard`)</li>
